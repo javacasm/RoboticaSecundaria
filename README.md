@@ -14,7 +14,7 @@ Vamos a controlar una torreta de 2 servos con un joystick
 
 
 ### Montaje
-![Montaje](./images/)Servo-joystick_esquemático.png
+![Montaje](./images/Servo-joystick_esquemático.png)
 
 ### [Programación con bloques](http://www.arduinoblocks.com/web/project/173260)
 
