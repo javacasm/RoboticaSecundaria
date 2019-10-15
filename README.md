@@ -7,7 +7,13 @@ Compatidos con licencia CC
 ![Licencia CC](./images/Licencia_CC.png)
 
 
+# Torreta controlada con un Joystick
+
 Vamos a controlar una torreta de 2 servos con un joystick 
+
+Usa como base la famosa [torreta de "ElTitoManolo" ](https://www.thingiverse.com/thing:2467743))
+
+![Torreta](https://cdn.thingiverse.com/renders/6a/51/9b/d1/b1/bc6b9e66128f97b17aba53b40d7eb409_preview_featured.jpg)
 
 
 [Ejemplo de proyecto con ArduinoBlocks](http://www.arduinoblocks.com/web/project/173260)
