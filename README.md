@@ -1,5 +1,12 @@
 # Robótica Secundaria
 
+Trabajos sobre robótica para secundaria
+
+Compatidos con licencia CC
+
+![Licencia CC](./images/Licencia_CC.png)
+
+
 Vamos a controlar una torreta de 2 servos con un joystick 
 
 
